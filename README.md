@@ -56,6 +56,7 @@ Extractor Agent, Matcher Agent, Answer Agent를 사용했습니다
 
 ## 6. 결과 캡처 이미지
 랭그래프 실습 코드를 기반으로 나온 결과 출력 이미지 입니다.
+
 <img width="1132" height="613" alt="결과출력 1" src="https://github.com/user-attachments/assets/fcbb6069-5327-4a40-abbe-a94dd41e848a" />
 <img width="1490" height="163" alt="결과출력 2" src="https://github.com/user-attachments/assets/49aed927-9dc5-48b2-b2c3-61ad99d56724" />
 
