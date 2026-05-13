@@ -31,22 +31,26 @@ Extractor Agent, Matcher Agent, Answer Agent를 사용했습니다
 ## 5. 전체 실행 흐름
 크게 상태정의 -> 증상추출 -> 추천후보 -> 최종답변 생성 -> 랭그래프 구성 -> 실행의 순서로 코드를 정리했습니다.
 1. 상태정의
-   <img width="808" height="460" alt="상태정의" src="https://github.com/user-attachments/assets/cfcfd41c-a4da-431b-8108-663794f8b57e" />
+
+    <img width="808" height="460" alt="상태정의" src="https://github.com/user-attachments/assets/cfcfd41c-a4da-431b-8108-663794f8b57e" />
 
 2. 증상 추출
+   
    <img width="730" height="492" alt="증상추출에이전트" src="https://github.com/user-attachments/assets/330c2c2b-cd21-4491-8662-d3e2ca010686" />
    
 3. 추천후보 에이전트
+   
    <img width="752" height="488" alt="matcher agent" src="https://github.com/user-attachments/assets/b27f3672-36c8-4f44-b9f3-4d9c0e199782" />
 
 4. 최종답변 생성 에이전트
+
    <img width="727" height="613" alt="최종답변 에이전트" src="https://github.com/user-attachments/assets/f0a150e7-d659-450a-a55e-8257729a7532" />
 
 5. 랭그래프 구성
-   
+  
    <img width="581" height="450" alt="랭그래프 구성 및 노드추가png" src="https://github.com/user-attachments/assets/d45263cb-2ae2-4692-bac2-1591ff274e64" />
 
-7. 실행
+6. 실행
    
    <img width="633" height="232" alt="실행" src="https://github.com/user-attachments/assets/8125a120-a04d-4260-8480-0fc414e82c94" />
 
